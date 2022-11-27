@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.0.32112.339
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "swtGlossarSortierer", "swtGlossarSortierer\swtGlossarSortierer.csproj", "{463D787A-E502-44C7-B717-8BB41C4C4588}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{463D787A-E502-44C7-B717-8BB41C4C4588}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{463D787A-E502-44C7-B717-8BB41C4C4588}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{463D787A-E502-44C7-B717-8BB41C4C4588}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{463D787A-E502-44C7-B717-8BB41C4C4588}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {E484D921-3671-4665-A388-275AF2C0391A}
+	EndGlobalSection
+EndGlobal
