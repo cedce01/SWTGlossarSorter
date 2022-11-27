@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "Ex0neCTmH6B+W7MmCC52IZKLav6j6p2umP3RVRrMOZZOqahY4+TZs6TeJulgKWb7BSpDaKRyJyOENXobgeiVqA==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\cedri\\Documents\\GitHub\\SWTGlossarSorter\\swtGlossarSortierer\\swtGlossarSortierer\\swtGlossarSortierer.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\cedri\\.nuget\\packages\\microsoft.netcore.app.runtime.win-x86\\6.0.1\\microsoft.netcore.app.runtime.win-x86.6.0.1.nupkg.sha512",
+    "C:\\Users\\cedri\\.nuget\\packages\\microsoft.windowsdesktop.app.runtime.win-x86\\6.0.1\\microsoft.windowsdesktop.app.runtime.win-x86.6.0.1.nupkg.sha512",
+    "C:\\Users\\cedri\\.nuget\\packages\\microsoft.aspnetcore.app.runtime.win-x86\\6.0.1\\microsoft.aspnetcore.app.runtime.win-x86.6.0.1.nupkg.sha512"
+  ],
+  "logs": []
+}

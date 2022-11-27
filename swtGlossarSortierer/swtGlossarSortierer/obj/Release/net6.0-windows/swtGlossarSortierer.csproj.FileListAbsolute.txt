@@ -1,0 +1,17 @@
+C:\Users\cedri\Documents\GitHub\SWTGlossarSorter\swtGlossarSortierer\swtGlossarSortierer\bin\Release\net6.0-windows\swtGlossarSortierer.exe
+C:\Users\cedri\Documents\GitHub\SWTGlossarSorter\swtGlossarSortierer\swtGlossarSortierer\bin\Release\net6.0-windows\swtGlossarSortierer.deps.json
+C:\Users\cedri\Documents\GitHub\SWTGlossarSorter\swtGlossarSortierer\swtGlossarSortierer\bin\Release\net6.0-windows\swtGlossarSortierer.runtimeconfig.json
+C:\Users\cedri\Documents\GitHub\SWTGlossarSorter\swtGlossarSortierer\swtGlossarSortierer\bin\Release\net6.0-windows\swtGlossarSortierer.dll
+C:\Users\cedri\Documents\GitHub\SWTGlossarSorter\swtGlossarSortierer\swtGlossarSortierer\bin\Release\net6.0-windows\ref\swtGlossarSortierer.dll
+C:\Users\cedri\Documents\GitHub\SWTGlossarSorter\swtGlossarSortierer\swtGlossarSortierer\bin\Release\net6.0-windows\swtGlossarSortierer.pdb
+C:\Users\cedri\Documents\GitHub\SWTGlossarSorter\swtGlossarSortierer\swtGlossarSortierer\obj\Release\net6.0-windows\swtGlossarSortierer.csproj.AssemblyReference.cache
+C:\Users\cedri\Documents\GitHub\SWTGlossarSorter\swtGlossarSortierer\swtGlossarSortierer\obj\Release\net6.0-windows\swtGlossarSortierer.Form1.resources
+C:\Users\cedri\Documents\GitHub\SWTGlossarSorter\swtGlossarSortierer\swtGlossarSortierer\obj\Release\net6.0-windows\swtGlossarSortierer.csproj.GenerateResource.cache
+C:\Users\cedri\Documents\GitHub\SWTGlossarSorter\swtGlossarSortierer\swtGlossarSortierer\obj\Release\net6.0-windows\swtGlossarSortierer.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\cedri\Documents\GitHub\SWTGlossarSorter\swtGlossarSortierer\swtGlossarSortierer\obj\Release\net6.0-windows\swtGlossarSortierer.AssemblyInfoInputs.cache
+C:\Users\cedri\Documents\GitHub\SWTGlossarSorter\swtGlossarSortierer\swtGlossarSortierer\obj\Release\net6.0-windows\swtGlossarSortierer.AssemblyInfo.cs
+C:\Users\cedri\Documents\GitHub\SWTGlossarSorter\swtGlossarSortierer\swtGlossarSortierer\obj\Release\net6.0-windows\swtGlossarSortierer.csproj.CoreCompileInputs.cache
+C:\Users\cedri\Documents\GitHub\SWTGlossarSorter\swtGlossarSortierer\swtGlossarSortierer\obj\Release\net6.0-windows\swtGlossarSortierer.dll
+C:\Users\cedri\Documents\GitHub\SWTGlossarSorter\swtGlossarSortierer\swtGlossarSortierer\obj\Release\net6.0-windows\ref\swtGlossarSortierer.dll
+C:\Users\cedri\Documents\GitHub\SWTGlossarSorter\swtGlossarSortierer\swtGlossarSortierer\obj\Release\net6.0-windows\swtGlossarSortierer.pdb
+C:\Users\cedri\Documents\GitHub\SWTGlossarSorter\swtGlossarSortierer\swtGlossarSortierer\obj\Release\net6.0-windows\swtGlossarSortierer.genruntimeconfig.cache

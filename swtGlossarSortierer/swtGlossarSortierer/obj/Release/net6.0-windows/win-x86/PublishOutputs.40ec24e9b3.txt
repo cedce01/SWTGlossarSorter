@@ -1,0 +1,7 @@
+C:\Users\cedri\Documents\GitHub\Builds\SWTGlossarSorter\swtGlossarSortierer.pdb
+C:\Users\cedri\Documents\GitHub\Builds\SWTGlossarSorter\D3DCompiler_47_cor3.dll
+C:\Users\cedri\Documents\GitHub\Builds\SWTGlossarSorter\PenImc_cor3.dll
+C:\Users\cedri\Documents\GitHub\Builds\SWTGlossarSorter\PresentationNative_cor3.dll
+C:\Users\cedri\Documents\GitHub\Builds\SWTGlossarSorter\vcruntime140_cor3.dll
+C:\Users\cedri\Documents\GitHub\Builds\SWTGlossarSorter\wpfgfx_cor3.dll
+C:\Users\cedri\Documents\GitHub\Builds\SWTGlossarSorter\swtGlossarSortierer.exe
